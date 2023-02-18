@@ -1,5 +1,5 @@
 ﻿# TOKENSftw (Tokens for-the-win)
-**NOTE:** This is the official submission repo for our team TOKENSftw at Lumos BUIDL-HYD Hackathon.
+**NOTE:** ~~This is~~ This was the official submission repo for our team TOKENSftw at Lumos BUIDL-HYD Hackathon. I tried to add login by **Arcana**.  
 **Spheron Deployment :** This project is deployed on [Spheron](https://bafybeiavpsr33fkw2dguk2fhpipujunbetgkgqoitfazpiz7s56y3ev2my.ipfs.sphn.link/).
 ## Real Estate Marketplace
 The real-estate market today has a lot of middle-men involved and no transparency. We hope to decentralize this by making a platform where property NFTs are being sold. We also hope to manage distributed real-estate. 
